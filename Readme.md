@@ -4,12 +4,12 @@
 
 **Backend created by [Fernando Mengali](https://www.linkedin.com/in/fernando-mengali-273504142/)**
 
-YpreyLibrary is a framework based on library systems for borrowing and returning books for students and users. The framework perfectly simulates a library system but has vulnerabilities based on the OWASP TOP 10 WebApp 2021. The framework was developed for teaching and learning details in Pentest (penetration testing) and Application Security. In the context of Offensive Security, vulnerabilities contained in web applicaton can be identified, exploited and compromised. For application security professionals and specifics, the framework provides an in-depth understanding of code-level vulnerabilities. Currently, Yrprey is one of the frameworks with the highest number of vulnerabilities in the world, making it valuable for educational, learning and teaching purposes in the Information Security area. For more information about the vulnerabilities, we recommend exploring the details available at [yrprey.com](https://yrprey.com).
+YpreyLibrary is a framework based on library systems for borrowing and returning books for students and users. The framework perfectly simulates a library system but has vulnerabilities based on the OWASP TOP 10 WebApp 2021. The framework was developed to teach and learn details in Pentest (penetration testing) and Application Security. In the context of Offensive Security, vulnerabilities contained in web applications can be identified, exploited, and compromised. For application security professionals and experts, the framework provides an in-depth understanding of code-level vulnerabilities. Currently, Yprey is very valuable for educational, learning, and teaching purposes in the field of Information Security. For more information about the vulnerabilities, we recommend exploring the details available at [yrprey.com](https://yrprey.com).
 
 #### Features
  - Based on OWASP's top 10 vulnerabilities for Web Application.
 
-Initially, an unregistered user has access to minimal information about the framework such as the Landing Page. When registering, the user can log in, thus obtaining a token that will be used to purchase products. Features include buying tools, cartoon character, post messages on guestbook etc. The framework was built based on vulnerabilities and is not recommended to be used for business and service sales.
+Initially, an unregistered user has access to minimal information about the framework, such as the Landing Page. The framework includes library functionalities for borrowing a book, returning it, etc. The framework was built based on vulnerabilities and is not recommended for commercial use, only for learning about exploitation and vulnerability fixing.
 
 #### List of Vulnerabilities
 
