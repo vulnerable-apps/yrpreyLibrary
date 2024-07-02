@@ -2,7 +2,7 @@
 
 ![yprey](https://i.imgur.com/zHoDJG9_d.webp?maxwidth=760&fidelity=grand)
 
-**Backend created by [Fernando Mengali](https://www.linkedin.com/in/fernando-mengali-273504142/)**
+**Created by [Fernando Mengali](https://www.linkedin.com/in/fernando-mengali-273504142/)**
 
 YpreyLibrary is a framework based on library systems for borrowing and returning books for students and users. The framework perfectly simulates a library system but has vulnerabilities based on the OWASP TOP 10 WebApp 2021. The framework was developed to teach and learn details in Pentest (penetration testing) and Application Security. In the context of Offensive Security, vulnerabilities contained in web applications can be identified, exploited, and compromised. For application security professionals and experts, the framework provides an in-depth understanding of code-level vulnerabilities. Currently, Yprey is very valuable for educational, learning, and teaching purposes in the field of Information Security. For more information about the vulnerabilities, we recommend exploring the details available at [yrprey.com](https://yrprey.com).
 
